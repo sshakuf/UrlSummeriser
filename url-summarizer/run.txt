@@ -1,0 +1,6 @@
+
+run edge functions in development to see console log messages
+
+supabase functions serve process-url
+  --no-verify-jwt --env-file
+  url-summarizer/.env.local
